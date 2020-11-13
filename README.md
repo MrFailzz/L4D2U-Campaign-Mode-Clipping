@@ -7,6 +7,7 @@ You can discuss your thoughts on the [**L4DNation Discord**](https://discord.gg/
 **How do I view the new clips?**
 Please run the game with `-dev` in your launch options, and use the `script ShowUpdate()` command in console to view the new clips, and `script HideUpdate()` to hide them. 
 
+[![Tutorial on how to use the commands.](https://img.youtube.com/vi/eKrOtGaLWAs/0.jpg)](https://www.youtube.com/watch?v=eKrOtGaLWAs)
 [Tutorial on how to use the commands.](https://www.youtube.com/watch?v=eKrOtGaLWAs)
 
 ---
