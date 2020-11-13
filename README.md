@@ -9,7 +9,7 @@ Please run the game with `-dev` in your launch options, and use the `script Show
 
 **Tutorial on how to use the commands:**
 
-[![**Tutorial on how to use the commands**](https://img.youtube.com/vi/eKrOtGaLWAs/0.jpg)](https://www.youtube.com/watch?v=eKrOtGaLWAs)
+[!(https://img.youtube.com/vi/eKrOtGaLWAs/0.jpg)](https://www.youtube.com/watch?v=eKrOtGaLWAs)
 
 ---
 
