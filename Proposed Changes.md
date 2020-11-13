@@ -1,6 +1,3 @@
-
----
-
 Below is the list of clips that we are proposing to make Versus exclusive.
 
 Commentary blockers will be changed in the future, but can be ignored for now. Primary focus is on the new clipping introduced in TLS update.
